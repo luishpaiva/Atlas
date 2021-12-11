@@ -1,4 +1,4 @@
-<strong>Projeto Coisas Emprestadas</strong>
+<strong>Atlas - Projeto Coisas Emprestadas</strong>
 
 <p>O objetivo é desenvolver um sistema web utilizando HTML, CSS, PHP e MySQL, para fazer o cadastro de usuários e itens emprestados e permitir o login dos usuários cadastrados, sendo pelo menos um deles administrador do sistema, aplicando estilos gráficos que enriqueçam sua visualização (cores, formas, bordas etc.). O projeto deve ser dinâmico, possibilitando a interação com o usuário por formulários e parâmetros.
 O sistema será utilizado para informar para quem algo foi emprestado, devendo atender aos seguintes itens:</p>
@@ -34,19 +34,19 @@ O sistema será utilizado para informar para quem algo foi emprestado, devendo a
 
 <p>Um bom trabalho e saiba que, com isso, você estará capacitado a iniciar sua jornada no mundo do desenvolvimento de sistemas web utilizando HTML, CSS, PHP e MySQL.</p>
 
-ATIVIDADE PRÁTICA (ATP): Etapa 1
+<strong>TIVIDADE PRÁTICA (ATP): Etapa 1</strong>
 
 1. Planejamento do modelo das páginas que serão criadas, pensando no conteúdo que será inserido em cada uma delas, para que atendam à estrutura solicitada para o projeto. O modelo pode ser desenhado de forma a organizar todos os itens que serão criados em seguida, de forma simples, com uma estrutura de organograma em um editor de textos, como o Word, para que tenhamos um mapa geral dele.
 2. Criação dos arquivos e vínculos simples da estrutura, já utilizando as tags HTML para ligação e os demais conceitos aprendidos que podem fazer parte da criação das páginas.
 3. Planejamento dos dados que farão parte do projeto, criando uma tabela simples no Excel para organizar os dados e seus tipos, que serão necessários nas páginas a ser criadas e posteriormente inseridos no banco de dados.
 
-ATIVIDADE PRÁTICA (ATP): Etapa 2
+<strong>ATIVIDADE PRÁTICA (ATP): Etapa 2</strong>
 <p>Nesta segunda etapa, suas atividades são:</p>
 
 1. Organização gráfica das páginas, campos e demais itens que fazem parte do projeto, criando um padrão gráfico que será utilizado em todo ele (um arquivo de texto pode ser criado com os detalhes que serão seguidos para que esse padrão seja mantido nas futuras manutenções).
 2. Formatação gráfica dos itens inseridos nas páginas, como campos, textos, legendas e outros, seguindo a referência criada, aplicando os conceitos de CSS aprendidos.
 
-ATIVIDADE PRÁTICA (ATP): Etapa 3
+<strong>ATIVIDADE PRÁTICA (ATP): Etapa 3</strong>
 <p>Nesta terceira etapa do projeto, devemos ter toda a parte gráfica, com poucas mudanças a ser feitas, além dos dados e estruturas de informações que serão utilizadas para armazenar esses dados e um mapa dos campos que iremos utilizar nos próximos passos do desenvolvimento.
 Suas atividades são:</p>
 
@@ -54,14 +54,15 @@ Suas atividades são:</p>
 2. Início da criação das variáveis e estruturas já planejadas anteriormente dentro do PHP, ajustando o que for preciso a partir do HTML inicial.
 3. Início do desenvolvimento das estruturas em PHP para realizar as funcionalidades planejadas para o projeto.
 
-ATIVIDADE PRÁTICA (ATP): Etapa 4
+<strong>ATIVIDADE PRÁTICA (ATP): Etapa 4</strong>
 <p>Nesta quarta etapa, vamos resolver problemas estruturados, com estruturas de seleção e repetição, a partir de conceitos e aspectos da linguagem de programação PHP. Veremos os comandos de seleção if e switch e os comandos de repetição while, do...while, for e foreach, essenciais no desenvolvimento da lógica, além de conhecer sua sintaxe, devida implementação e características, como também os operadores condicionais, incluindo a criação e utilização de formulários, manipulando os dados e enviando para o PHP e conhecendo seus métodos de comunicação.
 Suas atividades são:</p>
 
 1. Desenvolvimento das funções que farão parte do sistema planejado, levando em conta as estruturas criadas anteriormente e aplicando os conceitos aprendidos para tornar o projeto dinâmico.
 2. Começar a enviar os dados dos campos que fazem parte das páginas.
 
-ATIVIDADE PRÁTICA (ATP): Etapa 5
+<strong>ATIVIDADE PRÁTICA (ATP): Etapa 5</strong>
+<p>Nesta última etapa, suas atividades são:</p>
 
 1. Integração de mais algumas funções aprendidas, que possam complementar o projeto, e conexão com o banco de dados por meio das funções vistas e de acordo com o método definido, sem se esquecer de todos os parâmetros que precisam ser informados.
 2. Definição de onde vamos armazenar e recuperar as informações de configuração do sistema, local onde será salvo, o arquivo e o tipo de arquivo.
